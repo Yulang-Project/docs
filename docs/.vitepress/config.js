@@ -1,26 +1,24 @@
 export default {
     head: [
-        ['link', { rel: 'icon', href: '/logo2.png' }],
+        ['link', { rel: 'icon', href: 'https://api.flweb.cn/logos/Yulang/logo.svg' }],
     ],
-    title: 'MC WindyPear社区服',
+    title: 'Yulang Project',
     lastUpdated: true,
-    description: 'MC WindyPear社区服，为打造良好的养老社区环境而努力',
+    description: '可能是最Object化的编译型语言',
     lang: 'zh-CN',
     themeConfig: {
-        siteTitle: 'MC WindyPear社区服', //站点标题
-        logo: "https://api.flweb.cn/logos/MCWP/icon.jpg",
-        description: '一个Minecraft养老社区化服务器',//MCWindyPear Organization
+        siteTitle: 'Yulang Project', //站点标题
+        logo: "https://api.flweb.cn/logos/Yulang/logo.svg",
+        description: '可能是最Object化的编译型语言',
         nav: [
             { text: "主页", link: "/" },
-            { text: "风梨网", link: "//www.flweb.cn" },
-            { text: "鸣谢", link: "/structure/" },
         ],
         socialLinks: [
-            { icon: "github", link: "https://github.com/windypear-team" },
+            { icon: "github", link: "https://github.com/Yulang-Project" },
         ],
         footer: {
-            message: 'MCWindyPear',
-            copyright: 'Copyright © 2018-2024 <a href="https://www.flweb.cn/">风梨团队</a>'
+            message: 'Yulang Project',
+            copyright: 'Copyright © 2018-2025 <a href="https://www.flweb.cn/">风梨团队</a>'
         },
         lastUpdatedText: "最近更新时间",
         search: {
